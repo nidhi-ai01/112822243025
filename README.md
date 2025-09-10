@@ -1,12 +1,40 @@
-# React + Vite
+Afformed Frontend Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my solution for the frontend track of the first-round coding assignment at Afformed.
 
-Currently, two official plugins are available:
+Project Details
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Track: Frontend
 
-## Expanding the ESLint configuration
+Tech Stack: React, Node.js, Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Features:
+
+React components fetching and displaying data from APIs
+
+Handling button clicks and form submissions
+
+Setup
+
+Clone the repo:
+
+git clone https://github.com/nidhi-ai01/112822243025.git
+
+
+Install dependencies:
+
+npm install
+
+
+Run the project:
+
+npm run dev
+
+
+Open in browser: http://localhost:5173
+
+Notes
+
+Completed as per Afformed’s first-round assignment guidelines.
+
+Environment: Local setup, no external help allowed.
